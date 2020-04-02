@@ -1,4 +1,4 @@
 def introduction
-  # name = "John"
-  # puts 
+  name = "John"
+  puts 
 end
